@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is FC69-6AE5
+
+ Directory of C:\Niranjani\Javaproject
+
+05/03/2018  01:16 PM    <DIR>          .
+05/03/2018  01:16 PM    <DIR>          ..
+05/03/2018  01:16 PM                 0 config.txt
+05/03/2018  12:50 PM               900 Hello.class
+05/03/2018  12:49 PM               181 Hello.java
+05/03/2018  01:14 PM               447 index.html
+05/03/2018  01:14 PM               498 Readme.txt
+               5 File(s)          2,026 bytes
+               2 Dir(s)  1,909,356,417,024 bytes free
